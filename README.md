@@ -25,6 +25,9 @@ To get started with diffusion models and their applications,recommend the follow
 5. [Diffusion Models | Paper Explanation | Math Explained](https://youtu.be/I1sPXkm2NH4?si=SlqJmmPpN9nV2_Cw)
    - This video provides a detailed explanation of the mathematics behind diffusion models, helping to build a deeper understanding of their inner workings.
 
+6. [Simple Diffusion Model Implementation](https://github.com/changgyhub/nanoDiffusion)
+    - A simple diffusion model implementation from scratch
+
 ## Getting Started
 
 (Add instructions for setting up the project, installing dependencies, and running initial examples)
