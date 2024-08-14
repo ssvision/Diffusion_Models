@@ -6,9 +6,9 @@ This repository contains code and resources for learning and implementing diffus
 
 Diffusion models are a class of generative models that have shown promising results in various domains, including image generation, audio synthesis, and more recently, in robotics. This project aims to explore the application of diffusion models in the context of robotic manipulation.
 
-## Resources
+## Resources/References
 
-To get started with diffusion models and their applications,recommend the following resources:
+To get started with diffusion models and their applications,recommend the following resources. Code, theory and implementation is inspired from the following.
 
 ### Theory
 
